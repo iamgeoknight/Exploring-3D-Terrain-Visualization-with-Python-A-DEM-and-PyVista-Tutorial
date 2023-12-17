@@ -1,7 +1,7 @@
 # Exploring-3D-Terrain-Visualization-with-Python-A-DEM-and-PyVista-Tutorial
 Exploring 3D Terrain Visualization with Python: A DEM and PyVista Tutorial
 
-![Exploring 3D Terrain Visualization with Python: A DEM and PyVista Tutorial](Exploring 3D Terrain Visualization with Python: A DEM and PyVista Tutorial.png
+![Exploring 3D Terrain Visualization with Python: A DEM and PyVista Tutorial](Exploring%203D%20Terrain%20Visualization%20with%20Python%3A%20A%20DEM%20and%20PyVista%20Tutorial.png
 )
 
 ## For tutorial post, click on following link<br/>
